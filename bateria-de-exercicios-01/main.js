@@ -17,7 +17,7 @@ e escrever seu código acima da linha 81 normalmente, ok? =)
 /*
 01
 
-Vincule este arquivo (app.js) ao index.html desta mesma 
+Vincule este arquivo (main.js) ao index.html desta mesma 
 pasta.
 */
 
