@@ -146,5 +146,8 @@ Invoque a função acima testando as possibilidades abaixo:
 - Com nenhum argumento;
 - Com um argumento;
 - Com dois argumentos;
-- Com três argumentos.
+- Com três argumentos;
+- Com o primeiro argumento sendo undefined (inserido 
+manualmente) mais os outros dois argumentos. Exemplo: 
+suaFuncao(undefined, 1, 2).
 */
